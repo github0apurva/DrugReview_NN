@@ -11,4 +11,9 @@ Docker file for executing the model
 
 
 
-docker pull apurva0docker/drug_sent:1.0
+
+LINK for accessing the docker:   
+    https://hub.docker.com/repository/docker/apurva0docker/drug_sent
+    
+PULL directly from docker repo:
+    docker pull apurva0docker/drug_sent:1.0
